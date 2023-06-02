@@ -28,7 +28,7 @@ header img {
     display: flex;
     justify-content: space-around;
     text-decoration: none;
-    padding: 0 28%;
+    padding: 0 33%;
 }
 
 a {
@@ -239,7 +239,7 @@ button {
 }
 
 
-@media (max-width: 350px) {
+@media (max-width: 360px) {
     .links {
         padding-right: 0%;
         padding-left: 12%;
