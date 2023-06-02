@@ -196,7 +196,7 @@ button {
     }
 
     .links {
-        padding: 0 5%;
+        padding: 0 10%;
     }
 
     button {
@@ -242,7 +242,7 @@ button {
 @media (max-width: 350px) {
     .links {
         padding-right: 0%;
-        padding-left: 14%;
+        padding-left: 12%;
     }
 
     button {
