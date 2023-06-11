@@ -83,7 +83,7 @@ h1 {
 
 .form input:focus {
     transition: 0.5ms ease;
-    border: 3px solid #000;
+    border: 3px solid #004aad;
     border-radius: 10px;
 
 }
@@ -92,7 +92,7 @@ h1 {
 button {
     width: 240px;
     height: 60px;
-    background-color: #000066;
+    background-color: #004aad;
     color: white;
     font-size: 20px;
     margin: 2%;
